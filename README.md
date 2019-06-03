@@ -29,3 +29,6 @@ See also the list of [contributors](https://github.com/cruxiu/IMD0261-Forecastin
 
 This project is licensed under the GPL 3.0 - see the [LICENSE](LICENSE) file for details
 
+## References
+
+* [ANP Exploratory Data Analysis](https://github.com/volpatto/anp-data-analysis) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - Repo that contains an exploratory data analysis of pre-salt wells and geo data from ANP data base 
